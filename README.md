@@ -108,7 +108,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Authors
 
-- [@himanshubaurai](https://github.com/HimanshuBaurai)
+- [@kanishq](https://github.com/Kanishq2324)
 
 
 ## Contributing
